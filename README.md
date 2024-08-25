@@ -1,1 +1,1 @@
-# emotional-recognization-using-Machine-learning
+# emotional-speech-recognization-using-Machine-learning
